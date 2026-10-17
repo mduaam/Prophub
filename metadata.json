@@ -1,0 +1,6 @@
+{
+  "name": "PropEngine Hub",
+  "description": "Programmatic real estate software growth engine, deal ROI & BRRRR calculator, and verified lead capture platform for investors, agents, and landlords.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
